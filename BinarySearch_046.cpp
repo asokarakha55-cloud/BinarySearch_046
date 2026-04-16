@@ -28,7 +28,7 @@ void input()
 
     for (int i = 0; i < nPanjang; i++)
     {
-        cout << "Elemen ke-" << i + 1 << " : ";
+        cout << "Elemen ke-" << (i + 1) << " = ";
         cin >> element[i];
     }
 }
