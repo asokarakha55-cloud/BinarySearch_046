@@ -33,6 +33,6 @@ void input()
     }
 }
 
-void bubblesort()
+void BubbleSortArray()
 {
 }
